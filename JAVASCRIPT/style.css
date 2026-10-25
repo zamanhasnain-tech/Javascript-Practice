@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+/* h1 {
+    background-color:yellow;
+    font-size:50px;
+}
+p {
+    font-size:30px;
+    color:blue;
+}
+button {
+    background-color: blue;
+    color:white;
+} */
+ .box {
+    width:100px;
+    height:100px;
+    background-color:yellow;
+    border:2px solid black;
+    text-align: center;
+    margin:10px;
+ }
